@@ -7,9 +7,12 @@ The FCE LTER program, based at Florida International University's [Institute of 
 # Explore Our Work
 Our research examines long-term dynamics in the coastal Everglades, from sawgrass marshes through mangrove forests into the seagrass meadows of Florida Bay, and the human dimensions of change in South Florida.
 
-[People](https://fcelter.fiu.edu/about/people/index.html)
+[People](https://fcelter.fiu.edu/about/people/index.html) 
+<br>
 [Key Findings](https://fcelter.fiu.edu/research/index.html#key-findings)
+<br>
 [FCE Core Data](https://fce-lter.fiu.edu/data/core/)
+<br>
 [Publications Catalog](https://fce-lter.fiu.edu/publications/catalog/)
 
 Principal Investigator: **John Kominoski Ph.D.**
@@ -17,5 +20,7 @@ Principal Investigator: **John Kominoski Ph.D.**
 For information pertaining to resources posted on this GitHub organization please contact...
 
 Mike Rugge: ruggem@fiu.edu
+<br>
 Gabriel Kamener: gkamener@fiu.edu
+<br>
 James Sturges: jstur015@fiu.edu
