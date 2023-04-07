@@ -1,5 +1,4 @@
 # Florida Coastal Everglades 
-<br>
 #Long-Term Ecological Research Program
 
 The Florida Coastal Everglades (FCE) LTER Program is one of 28 sites in the [National Science Foundation]'s(https://www.nsf.gov/) [Long Term Ecological Research (LTER) Network](https://lternet.edu/). FCE researchers examine how climate change and disturbances interact with shifting management of freshwater resources to determine the dynamics and fate of coastal ecosystem properties, functions and services to people.
