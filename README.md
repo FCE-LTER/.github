@@ -19,8 +19,8 @@ Principal Investigator: **John Kominoski Ph.D.**
 
 For information pertaining to resources posted on this GitHub organization please contact...
 
-Mike Rugge: ruggem@fiu.edu
+Project Manager: Mike Rugge (ruggem@fiu.edu)
 <br>
-Gabriel Kamener: gkamener@fiu.edu
+Information Manager: Gabriel Kamener (gkamener@fiu.edu)
 <br>
-James Sturges: jstur015@fiu.edu
+GitHub Student Coordinator: James Sturges (jstur015@fiu.edu)
